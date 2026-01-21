@@ -1,7 +1,7 @@
 ## Hi there 👋
 
- git@github.com:yoursaas2026/REPO_NAME.git
- git@github-yoursaas:yoursaas2026/REPO_NAME.git
+ - git@github.com:yoursaas2026/REPO_NAME.git
+ - git@github-yoursaas:yoursaas2026/REPO_NAME.git
 <!--
 **yoursaas2026/yoursaas2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
